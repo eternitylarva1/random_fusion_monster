@@ -1,0 +1,11 @@
+{
+  "modid": "simple-mod",
+  "name": "随机融合怪",
+  "author_list": [
+    "eterniy_larva"
+  ],
+  "description": "加入了一个让怪物变成随机同层怪物的遗物。请勿使用二叉树，会有bug。 #部分怪物意图显示有bug，比如小手，天罚，老头打完第一只怪物赠送火蛋，尾巴和转经轮。四层精英会在3层boss和矛盾里面roll.心脏有特殊变化",
+  "version": "1.2.9",
+  "sts_version": "01-01-2020",
+  "mts_version": "1.0.0"
+}
